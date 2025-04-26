@@ -23,7 +23,11 @@ A robust and efficient solution for detecting fraudulent credit card transaction
 
 ## 📊 Dataset
 
-The dataset used in this project includes anonymized credit card transactions with labeled instances of fraudulent and legitimate activities. It features:
+The dataset used in this project comes from Kaggle and includes anonymized credit card transactions with labeled instances of fraudulent and legitimate activities. You can find the dataset here:
+
+**Dataset**: [Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+
+It features:
 
 - **Numerical Variables**: Representing transaction details.
 - **Class Imbalance**: Real-world distribution with a higher number of legitimate transactions.
@@ -105,6 +109,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or suggestions, feel free to reach out:
 
 - **GitHub**: [ninaadsaxena](https://github.com/ninaadsaxena)
+- **LinkedIn**: [Ninaad Saxena](https://www.linkedin.com/in/ninaadsaxena/)
 - **Email**: [ninaadsaxena@example.com](mailto:ninaadsaxena@example.com)
 
 ---
