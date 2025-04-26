@@ -56,17 +56,11 @@ pip install -r requirements.txt
 
 ## 🛠️ Usage
 
-Run the following script to train and evaluate the model:
+This project is deployed and can be accessed online:
 
-```bash
-python train_model.py
-```
+**Live Demo**: [Credit Card Fraud Detection App](https://credit-card-fraud-detection-ns.streamlit.app/)
 
-For visualization, execute:
-
-```bash
-python visualize_results.py
-```
+For local usage or development, ensure you have the required dependencies installed and follow the instructions in the codebase.
 
 ---
 
