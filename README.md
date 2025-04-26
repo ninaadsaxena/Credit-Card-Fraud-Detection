@@ -113,7 +113,3 @@ For questions or suggestions, feel free to reach out:
 - **Email**: [ninaadsaxena@example.com](mailto:ninaadsaxena@example.com)
 
 ---
-
-## ⭐ Acknowledgements
-
-Special thanks to the open-source community and contributors for their invaluable resources and support.
